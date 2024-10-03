@@ -2,6 +2,12 @@
 
 This was a guided project from Three.js Journey course, thanks Bruno Simon for the amazing content.
 
+# Live Demo
+
+Check out the deployed version of the project: [Haunted House Three.js](https://haunted-house-three-js-nu.vercel.app/)
+
+![Project Image](./hounted_house.png)
+
 ## Project Structure
 
 ```
